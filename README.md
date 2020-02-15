@@ -5,4 +5,4 @@
 
 
 ![alt-text-1](img/Road.1-centro_città.png =100x100) 
-![](img/Road.1-centro_città.png)
+![](img/Road.1-centro_città.png =100x)
