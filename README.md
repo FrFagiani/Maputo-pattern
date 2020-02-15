@@ -4,4 +4,4 @@
 <img src="img/Road.2-quartieri_informali.png" width=200 />
 </p>
 
-![](img/Road.1-centro_città.png) ![](img/Road.1-centro_città.png =100x)
+![](img/Road.1-centro_città.png) ![](img/Road.1-centro_città.png)
