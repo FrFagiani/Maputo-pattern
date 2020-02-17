@@ -20,7 +20,7 @@ Maputo context is very peculiar and different from European context. For this ci
 
 Human activities and functions are very difficult to identify in Maputo, especially from satellite images. Also there are few informations about this features or they are not detailed enough. So, uses and functions have not been considered or they have been considered partially in urban pattern definition.
 
-### City center
+### 1. City center
 Urban design is based on an orthogonal grid, with wide and regular roads. The buildings have many levels above the ground especially along the street front. There is a clear urban tissue and an architectural and urban planning idea.
 
 <p align="center" float="center">
@@ -28,65 +28,65 @@ Urban design is based on an orthogonal grid, with wide and regular roads. The bu
 <img src="img/Sat.1-centro_città.png" width=250 />
 </p>
 
-### Informal neighborhoods
+### 2. Informal neighborhoods
 
 <p align="center">
 <img src="img/Road.2-quartieri_informali.png" width=250 />
 <img src="img/Sat.2-quartieri_informali.png" width=250 />
 </p>
 
-### 
-
-<p align="center">
-<img src="img/Road.11-zona_di_completamento.png" width=250 />
-<img src="img/Sat.11-zona_di_completamento.png" width=250 />
-</p>
-
-### 
-
-<p align="center">
-<img src="img/Road.15-zona_prevalentemente_rurale.png" width=250 />
-<img src="img/Sat.15-zona_prevalentemente_rurale.png" width=250 />
-</p>
-
-### 
-
-<p align="center">
-<img src="img/Road.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
-<img src="img/Sat.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
-</p>
-
-### 
-
-<p align="center">
-<img src="img/Road.18-quartieri_pianificati_bassa_densità.png" width=250 />
-<img src="img/Sat.18-quartieri_pianificati_bassa_densità.png" width=250 />
-</p>
-
-### 
-
-<p align="center">
-<img src="img/Road.2-quartieri_informali.png" width=250 />
-<img src="img/Sat.2-quartieri_informali.png" width=250 />
-</p>
-
-### 
+###  3. Middle class suburbs
 
 <p align="center">
 <img src="img/Road.3-quartieri_suburbani.png" width=250 />
 <img src="img/Sat.3-quartieri_suburbani.png" width=250 />
 </p>
 
-### 
+### 4. 
 
 <p align="center">
 <img src="img/Road.4-quartieri_non_pianificati_suburbani.png" width=250 />
 <img src="img/Sat.4-quartieri_non_pianificati_suburbani.png" width=250 />
 </p>
 
-### 
+### 5.
 
 <p align="center">
 <img src="img/Road.9-quartieri_pianificati_suburbani.png" width=250 />
 <img src="img/Sat.9-quartieri_pianificati_suburbani.png" width=250 />
+</p>
+
+### 6.
+
+<p align="center">
+<img src="Road.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
+<img src="Sat.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
+</p>
+
+### 7.
+
+<p align="center">
+<img src="img/Road.11-zona_di_completamento.png" width=250 />
+<img src="img/Sat.11-zona_di_completamento.png" width=250 />
+</p>
+
+### 8.
+
+<p align="center">
+<img src="img/Road.15-zona_prevalentemente_rurale.png" width=250 />
+<img src="img/Sat.15-zona_prevalentemente_rurale.png" width=250 />
+</p>
+
+### 9.
+
+<p align="center">
+<img src="img/Road.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
+<img src="img/Sat.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
+</p>
+
+### 10.
+
+<p align="center">
+<img src="img/Road.18-quartieri_pianificati_bassa_densità.png" width=250 />
+<img src="img/Sat.18-quartieri_pianificati_bassa_densità.png" width=250 />
 </p>
