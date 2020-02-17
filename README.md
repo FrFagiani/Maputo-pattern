@@ -65,7 +65,7 @@ Very similar to the previous one, composed by square blocks (could be join with 
 
 <p align="center">
 <img src="img/Road.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
-<img src="ing/Sat.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
+<img src="img/Sat.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
 </p>
 
 ### 7. Completion/expansion
