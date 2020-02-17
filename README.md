@@ -27,14 +27,63 @@ Urban design is based on an orthogonal grid, with wide and regular roads. The bu
 
 ### Informal neighborhoods
 
-"<p align='center'>
-<img src='Road.10-quartieri_pianificati-blocchi-quadrati.png' width=250 />
-<img src='Sat.10-quartieri_pianificati-blocchi-quadrati.png' width=250 />
-</p>"
+<p align="center">
+<img src="Road.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
+<img src="Sat.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
+</p>
 
 ### 
 
-"<p align='center'>
-<img src='Road.11-zona_di_completamento.png' width=250 />
-<img src='Sat.11-zona_di_completamento.png' width=250 />
-</p>"
+<p align="center">
+<img src="Road.11-zona_di_completamento.png" width=250 />
+<img src="Sat.11-zona_di_completamento.png" width=250 />
+</p>
+
+### 
+
+<p align="center">
+<img src="Road.15-zona_prevalentemente_rurale.png" width=250 />
+<img src="Sat.15-zona_prevalentemente_rurale.png" width=250 />
+</p>
+
+### 
+
+<p align="center">
+<img src="Road.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
+<img src="Sat.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
+</p>
+
+### 
+
+<p align="center">
+<img src="Road.18-quartieri_pianificati_bassa_densità.png" width=250 />
+<img src="Sat.18-quartieri_pianificati_bassa_densità.png" width=250 />
+</p>
+
+### 
+
+<p align="center">
+<img src="Road.2-quartieri_informali.png" width=250 />
+<img src="Sat.2-quartieri_informali.png" width=250 />
+</p>
+
+### 
+
+<p align="center">
+<img src="Road.3-quartieri_suburbani.png" width=250 />
+<img src="Sat.3-quartieri_suburbani.png" width=250 />
+</p>
+
+### 
+
+<p align="center">
+<img src="Road.4-quartieri_non_pianificati_suburbani.png" width=250 />
+<img src="Sat.4-quartieri_non_pianificati_suburbani.png" width=250 />
+</p>
+
+### 
+
+<p align="center">
+<img src="Road.9-quartieri_pianificati_suburbani.png" width=250 />
+<img src="Sat.9-quartieri_pianificati_suburbani.png" width=250 />
+</p>
