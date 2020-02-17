@@ -21,6 +21,20 @@ Human activities and functions are very difficult to identify in Maputo, especia
 Urban design is based on an orthogonal grid, with wide and regular roads. The buildings have many levels above the ground especially along the street front. There is a clear urban tissue and an architectural and urban planning idea.
 
 <p align="center" float="center">
-<img src="img/Road.1-centro_città.png" width=200 />
-<img src="img/Sat.1-centro_città.png" width=200 />
+<img src="img/Road.1-centro_città.png" width=250 />
+<img src="img/Sat.1-centro_città.png" width=250 />
 </p>
+
+### Informal neighborhoods
+
+"<p align='center'>
+<img src='Road.10-quartieri_pianificati-blocchi-quadrati.png' width=250 />
+<img src='Sat.10-quartieri_pianificati-blocchi-quadrati.png' width=250 />
+</p>"
+
+### 
+
+"<p align='center'>
+<img src='Road.11-zona_di_completamento.png' width=250 />
+<img src='Sat.11-zona_di_completamento.png' width=250 />
+</p>"
