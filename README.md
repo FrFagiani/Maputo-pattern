@@ -45,49 +45,51 @@ Not too far from the city center have been recently developed middle class subur
 </p>
 
 ### 4. Informal suburbs
-They are not planned settlemens that take place in the hinterland. They have not a clear urban design and the road network seems not planned. This class is very similar to informal neighborhoods, but it has lower density of buildings, road path and a higher presence of open spaces.
+They are not planned settlemens that are located in the hinterland. They have not a clear urban design and the road network seems not planned. This class is very similar to informal neighborhoods, but it has lower density of buildings, road path and a higher presence of open spaces.
 
 <p align="center">
 <img src="img/Road.4-quartieri_non_pianificati_suburbani.png" width=250 />
 <img src="img/Sat.4-quartieri_non_pianificati_suburbani.png" width=250 />
 </p>
 
-### 5.
+### 5. Planned suburbs
+This class has developed over a regular and mainly orthogonal grid. The planned road network provided the support for the develop of this kind of neighbourhoods. The small buildings filled almost completely the urban blocks, the result is a regular and dense populated area. 
 
 <p align="center">
 <img src="img/Road.9-quartieri_pianificati_suburbani.png" width=250 />
 <img src="img/Sat.9-quartieri_pianificati_suburbani.png" width=250 />
 </p>
 
-### 6.
+### 6. Planned square suburbs
+Very similar to the previous one, composed by square blocks (could be join with number 5).
 
 <p align="center">
 <img src="img/Road.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
 <img src="ing/Sat.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
 </p>
 
-### 7.
+### 7. Completion/expansion
 
 <p align="center">
 <img src="img/Road.11-zona_di_completamento.png" width=250 />
 <img src="img/Sat.11-zona_di_completamento.png" width=250 />
 </p>
 
-### 8.
+### 8. Rural area
 
 <p align="center">
 <img src="img/Road.15-zona_prevalentemente_rurale.png" width=250 />
 <img src="img/Sat.15-zona_prevalentemente_rurale.png" width=250 />
 </p>
 
-### 9.
+### 9. Low density - not planned
 
 <p align="center">
 <img src="img/Road.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
 <img src="img/Sat.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
 </p>
 
-### 10.
+### 10. Low density - planned
 
 <p align="center">
 <img src="img/Road.18-quartieri_pianificati_bassa_densità.png" width=250 />
