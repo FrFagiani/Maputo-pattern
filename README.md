@@ -14,12 +14,13 @@ Maputo context is very peculiar and different from European context. For this ci
 - roads network
 - buildings typology and density
 - bairros division
+
 Human activities and functions are very difficult to identify in Maputo, especially from satellite images. Also there are few informations about this features or they are not detailed enough. So, uses and functions have not been considered or they have been considered partially in urban pattern definition.
 
 ### City center
 Urban design is based on an orthogonal grid, with wide and regular roads. The buildings have many levels above the ground especially along the street front. There is a clear urban tissue and an architectural and urban planning idea.
 
-<p float="center">
+<p align="center" float="center">
 <img src="img/Road.1-centro_città.png" width=200 />
 <img src="img/Sat.1-centro_città.png" width=200 />
 </p>
