@@ -29,6 +29,7 @@ Urban design is based on an orthogonal grid, with wide and regular roads. The bu
 </p>
 
 ### 2. Informal neighborhoods
+This kind of neighbourhoods are not planned. The road network does not follow any grid, it is dense, complex and in many cases the streets width are very narrow. There is a really high density of buildings with small dimension, and the urban tissue appears without shape. Furthermore there are very few open spaces.
 
 <p align="center">
 <img src="img/Road.2-quartieri_informali.png" width=250 />
@@ -36,13 +37,15 @@ Urban design is based on an orthogonal grid, with wide and regular roads. The bu
 </p>
 
 ###  3. Middle class suburbs
+Not too far from the city center have been recently developed middle class suburbs. They are planned neighborhoods composed by repeated detached or semi-detached houses, with private yard and sometimes with swimmingpool. 
 
 <p align="center">
 <img src="img/Road.3-quartieri_suburbani.png" width=250 />
 <img src="img/Sat.3-quartieri_suburbani.png" width=250 />
 </p>
 
-### 4. 
+### 4. Informal suburbs
+They are not planned settlemens that take place in the hinterland. They have not a clear urban design and the road network seems not planned. This class is very similar to informal neighborhoods, but it has lower density of buildings, road path and a higher presence of open spaces.
 
 <p align="center">
 <img src="img/Road.4-quartieri_non_pianificati_suburbani.png" width=250 />
@@ -59,8 +62,8 @@ Urban design is based on an orthogonal grid, with wide and regular roads. The bu
 ### 6.
 
 <p align="center">
-<img src="Road.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
-<img src="Sat.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
+<img src="img/Road.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
+<img src="ing/Sat.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
 </p>
 
 ### 7.
