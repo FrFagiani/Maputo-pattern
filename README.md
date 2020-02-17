@@ -7,7 +7,10 @@ At the same time I will use this guide as an opportunity to start working with G
 Urban morphology analyze urban tissue considering both human artifacts, as phisical form and shape of settlements (streets, buildings, blocks) and human activities as set of functions or uses.
 The city could be divided into homogeneous morphological settlements that are based on different urban pattern families.
 
+>They are distinguished by genesis, weight (in terms of population, urbanized land, infrastructural density, etc.), their location and the relationships with surroundings, by the inhabitants and the type of activity they host, therefore for the ways in which space, economy and society meet or can meet there.
+
 > *Essi si distinguono per la genesi, per il peso (in termini di popolazione insediata, suolo urbanizzato, densità infrastrutturale ecc.), per la collocazione nel territorio e le relazioni che intrattengono con l’intorno, per gli abitanti e il tipo di attività che ospitano o possono ospitare, dunque per i modi nei quali spazio, economia e società vi si incontrano o possono incontrarvisi.*
+
 >(Patrizia Gabellini, 2010)
 
 Maputo context is very peculiar and different from European context. For this city has been identified 10 different patterns, mainly based on this features:
