@@ -69,13 +69,16 @@ Very similar to the previous one, composed by square blocks (could be join with 
 </p>
 
 ### 7. Completion/expansion
+In this class there are many 
 
 <p align="center">
 <img src="img/Road.11-zona_di_completamento.png" width=250 />
 <img src="img/Sat.11-zona_di_completamento.png" width=250 />
 </p>
 
-### 8. Rural area
+### 8. Semi-rural area
+This area is a mesh between rural and urban area. The land is mainly occupied by rural fields and open green spaces, but there are also single and spread buildings, with no agglomeration. 
+There are few roads, with wide mesh, they used to be not planned.
 
 <p align="center">
 <img src="img/Road.15-zona_prevalentemente_rurale.png" width=250 />
@@ -83,6 +86,8 @@ Very similar to the previous one, composed by square blocks (could be join with 
 </p>
 
 ### 9. Low density - not planned
+They are very similar to class number 4, they have not a clear urban design and the road paths are not planned, but there is a lower density of buildings. There are courtyard and open spaces, they are located in the periphery.
+
 
 <p align="center">
 <img src="img/Road.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
@@ -90,6 +95,7 @@ Very similar to the previous one, composed by square blocks (could be join with 
 </p>
 
 ### 10. Low density - planned
+They are very similar to class number 5, the road network is structured on regular grid, but there is a lower density of buildings. There are courtyard and open spaces, they are located in the periphery.
 
 <p align="center">
 <img src="img/Road.18-quartieri_pianificati_bassa_densità.png" width=250 />
