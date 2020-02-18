@@ -4,21 +4,17 @@ The aim of this project is to provide a guide about how to build a Shape file th
 At the same time I will use this guide as an opportunity to start working with Github.
 
 ## What is an urban pattern?
-Urban morphology analyze urban tissue considering both human artifacts, as phisical form and shape of settlements (streets, buildings, blocks) and human activities as set of functions or uses.
+Urban morphology analyses urban tissue considering both human artefacts, as physical form and shape of settlements (streets, buildings, blocks) and human activities as set of functions or uses.
 The city could be divided into homogeneous morphological settlements that are based on different urban pattern families.
 
->They are distinguished by genesis, weight (in terms of population, urbanized land, infrastructural density, etc.), their location and the relationships with surroundings, by the inhabitants and the type of activity they host, therefore for the ways in which space, economy and society meet or can meet there.
+>They are distinguished by genesis, weight (in terms of population, urbanized land, infrastructural density, etc.), their location and the relationships with surroundings, by the inhabitants and the type of activity they host, therefore for the ways in which space, economy and society meet or can meet there. (Patrizia Gabellini, 2010)
 
-> *Essi si distinguono per la genesi, per il peso (in termini di popolazione insediata, suolo urbanizzato, densità infrastrutturale ecc.), per la collocazione nel territorio e le relazioni che intrattengono con l’intorno, per gli abitanti e il tipo di attività che ospitano o possono ospitare, dunque per i modi nei quali spazio, economia e società vi si incontrano o possono incontrarvisi.*
-
->(Patrizia Gabellini, 2010)
-
-Maputo context is very peculiar and different from European context. For this city has been identified 10 different patterns, mainly based on this features:
+Maputo context is very peculiar and different from European context. For this city has been identified 10 different patterns, mainly based on these features:
 - roads network
 - buildings typology and density
-- bairros division
+- bairros boundaries
 
-Human activities and functions are very difficult to identify in Maputo, especially from satellite images. Also there are few informations about this features or they are not detailed enough. So, uses and functions have not been considered or they have been considered partially in urban pattern definition.
+Human activities and functions are very difficult to identify in Maputo, especially from satellite images. Also, there are few information about this feature or they are not detailed enough. So, uses and functions have not been considered or they have been considered partially in urban pattern definition.
 
 ### 1. City center
 Urban design is based on an orthogonal grid, with wide and regular roads. The buildings have many levels above the ground especially along the street front. There is a clear urban tissue and an architectural and urban planning idea.
@@ -28,8 +24,8 @@ Urban design is based on an orthogonal grid, with wide and regular roads. The bu
 <img src="img/Sat.1-centro_città.png" width=250 />
 </p>
 
-### 2. Informal neighborhoods
-This kind of neighbourhoods are not planned. The road network does not follow any grid, it is dense, complex and in many cases the streets width are very narrow. There is a really high density of buildings with small dimension, and the urban tissue appears without shape. Furthermore there are very few open spaces.
+### 2. Informal neighbourhoods
+This kind of neighbourhoods are not planned. The road network does not follow any grid, it is dense, complex and in many cases the streets width is very narrow. There is a high density of buildings with small dimension, and the urban tissue appears without shape. Furthermore there are very few open spaces.
 
 <p align="center">
 <img src="img/Road.2-quartieri_informali.png" width=250 />
@@ -37,7 +33,7 @@ This kind of neighbourhoods are not planned. The road network does not follow an
 </p>
 
 ###  3. Middle class suburbs
-Not too far from the city center have been recently developed middle class suburbs. They are planned neighborhoods composed by repeated detached or semi-detached houses, with private yard and sometimes with swimmingpool. 
+Not too far from the city center have been recently developed middle class suburbs. They are planned neighbourhoods composed by repeated detached or semi-detached houses, with private yard and sometimes with swimming pool. 
 
 <p align="center">
 <img src="img/Road.3-quartieri_suburbani.png" width=250 />
@@ -45,7 +41,7 @@ Not too far from the city center have been recently developed middle class subur
 </p>
 
 ### 4. Informal suburbs
-They are not planned settlemens that are located in the hinterland. They have not a clear urban design and the road network seems not planned. This class is very similar to informal neighborhoods, but it has lower density of buildings, road path and a higher presence of open spaces.
+They are not planned settlements that are located in the hinterland. They have not a clear urban design and the road network seems not planned. This class is very similar to informal neighbourhoods, but it has lower density of buildings, road path and a higher presence of open spaces.
 
 <p align="center">
 <img src="img/Road.4-quartieri_non_pianificati_suburbani.png" width=250 />
@@ -53,7 +49,7 @@ They are not planned settlemens that are located in the hinterland. They have no
 </p>
 
 ### 5. Planned suburbs
-This class has developed over a regular and mainly orthogonal grid. The planned road network provided the support for the develop of this kind of neighbourhoods. The small buildings filled almost completely the urban blocks, the result is a regular and dense populated area. 
+This class has developed over a regular and mainly orthogonal grid. The planned road network provided the support for the develop of this kind of neighbourhoods. The small buildings filled almost completely the urban blocks, the result is a regular and densely populated area. 
 
 <p align="center">
 <img src="img/Road.9-quartieri_pianificati_suburbani.png" width=250 />
@@ -69,7 +65,7 @@ Very similar to the previous one, composed by square blocks (could be join with 
 </p>
 
 ### 7. Completion/expansion
-In this class there are many 
+There are many empty spaces, or completion spaces, with both buildings under constructions and finished buildings. There are main roads based on a grid, with wide meshes that could become smaller after the expansion. 
 
 <p align="center">
 <img src="img/Road.11-zona_di_completamento.png" width=250 />
