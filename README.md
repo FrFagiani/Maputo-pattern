@@ -1,7 +1,11 @@
 # Maputo urban pattern
 
-The aim of this project is to provide a guide about how to build a Shape file that identify *urban pattern* in Maputo region.
-At the same time I will use this guide as an opportunity to start working with Github.
+The aim of this project is to provide a description about the construction of a Shape file that identify *urban pattern* in Maputo region.
+
+<p align="center" float="center">
+<img src="img/hrsl.png" width=250 />
+<img src="img/Pattern-Maputo.png" width=250 />
+</p>
 
 ## What is an urban pattern?
 Urban morphology analyses urban tissue considering both human artefacts, as physical form and shape of settlements (streets, buildings, blocks) and human activities as set of functions or uses.
