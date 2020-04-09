@@ -108,6 +108,9 @@ The area is recognizable due to presence of warehouses or industrial plant.
 <p align="center" float="center">
 <img src="img/Road.21.png" width=250 />
 <img src="img/Sat.21-Indusrial.png" width=250 />
+<p>
+  
+<p align="center" float="center">
 <img src="img/Road.22b.png" width=250 />
 <img src="img/Sat.21-Indusrial-B.png" width=250 />
 </p>
