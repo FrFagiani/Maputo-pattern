@@ -2,9 +2,9 @@
 
 The aim of this project is to provide a description about the construction of a Shape file that identify *urban pattern* in Maputo region.
 
-<img src="img/hrsl.png" width=250 /> *HRSL - High resolution settlement layer*
+<img src="img/hrsl-completo.png" width=250 /> *HRSL - High resolution settlement layer*
 
-<img src="img/Pattern-Maputo.png" width=250 /> *Maputo Pattern*
+<img src="img/Pattern-Maputo-completo.png" width=250 /> *Maputo Pattern*
 
 
 ## What is an urban pattern?
@@ -100,4 +100,14 @@ They are very similar to class number 5, the road network is structured on regul
 <p align="center">
 <img src="img/Road.18-quartieri_pianificati_bassa_densità.png" width=250 />
 <img src="img/Sat.18-quartieri_pianificati_bassa_densità.png" width=250 />
+</p>
+
+### 11. Industrial, logistic, commercial, service cluster
+Urban design is based on an orthogonal grid, with wide and regular roads. The buildings have many levels above the ground especially along the street front. There is a clear urban tissue and an architectural and urban planning idea.
+
+<p align="center" float="center">
+<img src="img/Road.21.png" width=250 />
+<img src="img/Sat.21-Industrial.png" width=250 />
+<img src="img/Road.22b.png" width=250 />
+<img src="img/Sat.21-Industrial-B.png" width=250 />
 </p>
