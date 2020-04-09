@@ -103,11 +103,19 @@ They are very similar to class number 5, the road network is structured on regul
 </p>
 
 ### 11. Industrial, logistic, commercial, service cluster
-Urban design is based on an orthogonal grid, with wide and regular roads. The buildings have many levels above the ground especially along the street front. There is a clear urban tissue and an architectural and urban planning idea.
+The area is recognizable due to presence of warehouses or industrial plant.
 
 <p align="center" float="center">
 <img src="img/Road.21.png" width=250 />
-<img src="img/Sat.21-Industrial.png" width=250 />
+<img src="img/Sat.21-Indusrial.png" width=250 />
 <img src="img/Road.22b.png" width=250 />
-<img src="img/Sat.21-Industrial-B.png" width=250 />
+<img src="img/Sat.21-Indusrial-B.png" width=250 />
+</p>
+
+### 12. Natural, rural
+Low presence of buildings and human artifacts.
+
+<p align="center" float="center">
+<img src="img/Road.23b.png" width=250 />
+<img src="img/Sat.22-Natural-B.png" width=250 />
 </p>
