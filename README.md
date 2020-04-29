@@ -24,6 +24,7 @@ Human activities and functions are very difficult to identify in Maputo, especia
 Urban design is based on an orthogonal grid, with wide and regular roads. The buildings have many levels above the ground especially along the street front. There is a clear urban tissue and an architectural and urban planning idea.
 
 <p align="center" float="center">
+<img src="img/1.png" width=250 />
 <img src="img/Road.1-centro_città.png" width=250 />
 <img src="img/Sat.1-centro_città.png" width=250 />
 </p>
@@ -32,6 +33,7 @@ Urban design is based on an orthogonal grid, with wide and regular roads. The bu
 This kind of neighbourhoods are not planned. The road network does not follow any grid, it is dense, complex and in many cases the streets width is very narrow. There is a high density of buildings with small dimension, and the urban tissue appears without shape. Furthermore there are very few open spaces.
 
 <p align="center">
+<img src="img/2.png" width=250 />
 <img src="img/Road.2-quartieri_informali.png" width=250 />
 <img src="img/Sat.2-quartieri_informali.png" width=250 />
 </p>
@@ -40,6 +42,7 @@ This kind of neighbourhoods are not planned. The road network does not follow an
 Not too far from the city center have been recently developed middle class suburbs. They are planned neighbourhoods composed by repeated detached or semi-detached houses, with private yard and sometimes with swimming pool. 
 
 <p align="center">
+<img src="img/3.png" width=250 />
 <img src="img/Road.3-quartieri_suburbani.png" width=250 />
 <img src="img/Sat.3-quartieri_suburbani.png" width=250 />
 </p>
@@ -48,6 +51,7 @@ Not too far from the city center have been recently developed middle class subur
 They are not planned settlements that are located in the hinterland. They have not a clear urban design and the road network seems not planned. This class is very similar to informal neighbourhoods, but it has lower density of buildings, wider road path and a higher presence of open spaces.
 
 <p align="center">
+<img src="img/4.png" width=250 />
 <img src="img/Road.4-quartieri_non_pianificati_suburbani.png" width=250 />
 <img src="img/Sat.4-quartieri_non_pianificati_suburbani.png" width=250 />
 </p>
@@ -56,6 +60,7 @@ They are not planned settlements that are located in the hinterland. They have n
 This class has developed over a regular and mainly orthogonal grid. The planned road network provided the support for the develop of this kind of neighbourhoods. The small buildings filled almost completely the urban blocks, the result is a regular and densely populated area. 
 
 <p align="center">
+<img src="img/5.png" width=250 />
 <img src="img/Road.9-quartieri_pianificati_suburbani.png" width=250 />
 <img src="img/Sat.9-quartieri_pianificati_suburbani.png" width=250 />
 </p>
@@ -64,6 +69,7 @@ This class has developed over a regular and mainly orthogonal grid. The planned 
 Very similar to the previous one, composed by square blocks (could be join with number 5).
 
 <p align="center">
+<img src="img/6.png" width=250 />
 <img src="img/Road.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
 <img src="img/Sat.10-quartieri_pianificati-blocchi-quadrati.png" width=250 />
 </p>
@@ -72,6 +78,7 @@ Very similar to the previous one, composed by square blocks (could be join with 
 There are many empty spaces, or completion spaces, with both buildings under constructions and finished buildings. There are main roads based on a grid, with wide meshes that could become smaller after the expansion. 
 
 <p align="center">
+<img src="img/7.png" width=250 />
 <img src="img/Road.11-zona_di_completamento.png" width=250 />
 <img src="img/Sat.11-zona_di_completamento.png" width=250 />
 </p>
@@ -81,6 +88,7 @@ This area is a mesh between rural and urban area. The land is mainly occupied by
 There are few roads, with wide mesh, they used to be not planned.
 
 <p align="center">
+<img src="img/8.png" width=250 />
 <img src="img/Road.15-zona_prevalentemente_rurale.png" width=250 />
 <img src="img/Sat.15-zona_prevalentemente_rurale.png" width=250 />
 </p>
@@ -90,6 +98,7 @@ They are very similar to class number 4, they have not a clear urban design and 
 
 
 <p align="center">
+<img src="img/9.png" width=250 />
 <img src="img/Road.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
 <img src="img/Sat.16-quartieri_non_pianificati_bassa_densità.png" width=250 />
 </p>
@@ -98,6 +107,7 @@ They are very similar to class number 4, they have not a clear urban design and 
 They are very similar to class number 5, the road network is structured on regular grid, but there is a lower density of buildings. There are courtyard and open spaces, they are located in the periphery.
 
 <p align="center">
+<img src="img/10.png" width=250 />
 <img src="img/Road.18-quartieri_pianificati_bassa_densità.png" width=250 />
 <img src="img/Sat.18-quartieri_pianificati_bassa_densità.png" width=250 />
 </p>
@@ -106,6 +116,7 @@ They are very similar to class number 5, the road network is structured on regul
 The area is recognizable due to presence of warehouses or industrial plant.
 
 <p align="center" float="center">
+<img src="img/11.png" width=250 />
 <img src="img/Road.21.png" width=250 />
 <img src="img/Sat.21-Indusrial.png" width=250 />
 <p>
@@ -119,6 +130,7 @@ The area is recognizable due to presence of warehouses or industrial plant.
 Low presence of buildings and human artifacts.
 
 <p align="center" float="center">
+<img src="img/12.png" width=250 />
 <img src="img/Road.23b.png" width=250 />
 <img src="img/Sat.22-Natural-B.png" width=250 />
 </p>
