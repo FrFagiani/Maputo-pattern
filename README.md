@@ -45,7 +45,7 @@ Not too far from the city center have been recently developed middle class subur
 </p>
 
 ### 4. Informal suburbs
-They are not planned settlements that are located in the hinterland. They have not a clear urban design and the road network seems not planned. This class is very similar to informal neighbourhoods, but it has lower density of buildings, road path and a higher presence of open spaces.
+They are not planned settlements that are located in the hinterland. They have not a clear urban design and the road network seems not planned. This class is very similar to informal neighbourhoods, but it has lower density of buildings, wider road path and a higher presence of open spaces.
 
 <p align="center">
 <img src="img/Road.4-quartieri_non_pianificati_suburbani.png" width=250 />
