@@ -1,4 +1,4 @@
-# Maputo urban pattern
+# Maputo urban pattern morphology
 
 The aim of this project is to provide a description about the construction of a Shape file that identify *urban pattern* in Maputo region.
 
