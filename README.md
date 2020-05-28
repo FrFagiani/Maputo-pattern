@@ -134,3 +134,8 @@ Low presence of buildings and human artifacts.
 <img src="img/Road.23b.png" width=250 />
 <img src="img/Sat.22-Natural-B.png" width=250 />
 </p>
+
+## References
+Carmona, M. (2003). Public places, urban spaces : the dimensions of urban design. Oxford: Architectural Press.
+Gabellini, P. (2011). Fare urbanistica: esperienze, comunicazione, memoria. Roma: Carrocci.
+Viana, D. L. (2015). (AUTO) Organização e forma urbana: combinando diferentes abordagens morfológicas naa nálise de Maputo. Porto: Faculdade de Engenharia da Universidade do Porto.
