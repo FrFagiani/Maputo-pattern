@@ -1,6 +1,6 @@
 # Maputo urban pattern morphology
 
-The aim of this project is to provide a description about the construction of a Shape file that identify *urban pattern* in Maputo region.
+The aim of this project is to define an homogeneous and proper division for the Greater Maputo region according with *urban pattern* and *urban morphology* principles.
 
 <img src="img/hrsl-completo.png" width=250 /> *HRSL - High resolution settlement layer*
 
