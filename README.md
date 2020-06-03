@@ -14,9 +14,9 @@ The city could be divided into homogeneous morphological settlements that are ba
 >They are distinguished by genesis, weight (in terms of population, urbanized land, infrastructural density, etc.), their location and the relationships with surroundings, by the inhabitants and the type of activity they host, therefore for the ways in which space, economy and society meet or can meet there. (Patrizia Gabellini, 2010)
 
 Maputo context is very peculiar and different from European context. For this city has been identified 10 different patterns, mainly based on these features:
-- roads network
+- roads network width, density, regularity
 - buildings typology and density
-- bairros boundaries
+- district and bairros boundaries
 
 Human activities and functions are very difficult to identify in Maputo, especially from satellite images. Also, there are few information about this feature or they are not detailed enough. So, uses and functions have not been considered or they have been considered partially in urban pattern definition.
 
