@@ -144,7 +144,7 @@ Low presence of buildings and human artifacts.
 
 ## Results
 
-Greater Maputo morphological areas - [download](https://duckduckgo.com "Link to file repository")
+Greater Maputo morphological areas - [download](https://github.com/FrFagiani/Maputo-pattern/tree/master/shp "Link to file repository")
 
 <img src="img/Pattern-Maputo-completo.png" width=250 /> *Maputo Pattern*
 
