@@ -12,7 +12,9 @@ Satellite imagery
 
 Administrative boundaries
 
-## What is an urban pattern?
+## Methodology
+
+### What is an urban pattern?
 Urban morphology analyses urban tissue considering both human artefacts, as physical form and shape of settlements (streets, buildings, blocks) and human activities as set of functions or uses.
 The city could be divided into homogeneous morphological settlements that are based on different urban pattern families.
 
