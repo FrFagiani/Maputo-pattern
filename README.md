@@ -4,7 +4,7 @@ The aim of this project is to define an homogeneous and proper division for the 
 
 ## Data
 
-HRSL - High Resolution Settlement Layer
+[HRSL](https://github.com/FrFagiani/Maputo-pattern/blob/master/Data.md#hrsl "High Resolution Settlement Layer")
 
 OSM Road Network
 
