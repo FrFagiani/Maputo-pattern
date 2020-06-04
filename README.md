@@ -2,10 +2,15 @@
 
 The aim of this project is to define an homogeneous and proper division for the Greater Maputo region according with *urban pattern* and *urban morphology* principles.
 
-<img src="img/hrsl-completo.png" width=250 /> *HRSL - High resolution settlement layer*
+## Data
 
-<img src="img/Pattern-Maputo-completo.png" width=250 /> *Maputo Pattern*
+HRSL - High Resolution Settlement Layer
 
+OSM Road Network
+
+Satellite imagery
+
+Administrative boundaries
 
 ## What is an urban pattern?
 Urban morphology analyses urban tissue considering both human artefacts, as physical form and shape of settlements (streets, buildings, blocks) and human activities as set of functions or uses.
@@ -134,6 +139,12 @@ Low presence of buildings and human artifacts.
 <img src="img/Road.23b.png" width=250 />
 <img src="img/Sat.22-Natural-B.png" width=250 />
 </p>
+
+## Results
+
+Greater Maputo morphological areas - [download](https://duckduckgo.com "Link to file repository")
+
+<img src="img/Pattern-Maputo-completo.png" width=250 /> *Maputo Pattern*
 
 ## References
 
